@@ -1,1 +1,1 @@
-web: gunicorn chip-in-app.wsgi
+web: gunicorn chip_in_app.wsgi
