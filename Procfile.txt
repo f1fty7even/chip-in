@@ -1,0 +1,1 @@
+web: gunicorn chip-in-app.wsgi
